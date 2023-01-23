@@ -1,0 +1,15 @@
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.csproj.AssemblyReference.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.AssemblyInfoInputs.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.AssemblyInfo.cs
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.csproj.CoreCompileInputs.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\bin\Debug\net7.0\Zd4.exe
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\bin\Debug\net7.0\Zd4.deps.json
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\bin\Debug\net7.0\Zd4.runtimeconfig.json
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\bin\Debug\net7.0\Zd4.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\bin\Debug\net7.0\Zd4.pdb
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\refint\Zd4.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.pdb
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\Zd4.genruntimeconfig.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ1\Zd4\obj\Debug\net7.0\ref\Zd4.dll
